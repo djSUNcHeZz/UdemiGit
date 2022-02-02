@@ -1,2 +1,0 @@
-Udemi
-Git
