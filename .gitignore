@@ -4,7 +4,6 @@
 # examples for .gitignore:
 # https://github.com/github/gitignore
 # https://github.com/github/gitignore/blob/main/Python.gitignore
-.gitignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
